@@ -126,22 +126,10 @@
   margin: 36px 0 0;
 }
 
-.u-section-2 .u-text-2 {
-  font-size: 1.5rem;
-  width: 187px;
-  margin: 45px auto 0;
-}
-
-.u-section-2 .u-text-3 {
-  font-size: 1.5rem;
-  width: 187px;
-  margin: -38px auto 0;
-}
-
 .u-section-2 .u-video-1 {
   height: 459px;
   width: 525px;
-  margin: 45px 15px 0 auto;
+  margin: 128px 15px 0 auto;
 }
 
 .u-section-2 .embed-responsive-1 {
@@ -163,19 +151,9 @@
     min-height: 1549px;
   }
 
-  .u-section-2 .u-text-2 {
-    width: 272px;
-    margin-top: 60px;
-  }
-
-  .u-section-2 .u-text-3 {
-    width: 297px;
-    margin-top: 549px;
-  }
-
   .u-section-2 .u-video-1 {
     width: 820px;
-    margin-top: 24px;
+    margin-top: 709px;
     margin-right: auto;
   }
 
@@ -195,17 +173,9 @@
     font-size: 3rem;
   }
 
-  .u-section-2 .u-text-2 {
-    margin-top: 44px;
-  }
-
-  .u-section-2 .u-text-3 {
-    margin-top: 464px;
-  }
-
   .u-section-2 .u-video-1 {
     height: 403px;
-    margin-top: 36px;
+    margin-top: 620px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -230,18 +200,9 @@
     margin-top: 56px;
   }
 
-  .u-section-2 .u-text-2 {
-    width: 187px;
-    margin-top: 45px;
-  }
-
-  .u-section-2 .u-text-3 {
-    width: 187px;
-    margin-top: 357px;
-  }
-
   .u-section-2 .u-video-1 {
     height: 302px;
+    margin-top: 529px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -263,25 +224,12 @@
 
   .u-section-2 .u-text-1 {
     font-size: 2.25rem;
-  }
-
-  .u-section-2 .u-text-2 {
-    width: auto;
-    margin-top: 47px;
-    margin-left: 34px;
-    margin-right: 34px;
-  }
-
-  .u-section-2 .u-text-3 {
-    width: auto;
-    margin-top: 273px;
-    margin-left: 22px;
-    margin-right: 22px;
+    margin-top: 75px;
   }
 
   .u-section-2 .u-video-1 {
     height: 190px;
-    margin-top: 25px;
+    margin-top: 281px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -289,8 +237,7 @@
 
   .u-section-2 .u-video-2 {
     height: 190px;
-    margin-top: -490px;
-    margin-bottom: 356px;
+    margin-top: -455px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
