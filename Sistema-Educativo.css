@@ -349,7 +349,8 @@
 }
 
 .u-section-3 .u-accordion-pane-2 {
-  min-height: 600px;
+  min-height: 318px;
+  height: auto;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -409,7 +410,8 @@
 }
 
 .u-section-3 .u-accordion-pane-3 {
-  min-height: 600px;
+  min-height: 318px;
+  height: auto;
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -434,7 +436,8 @@
 }
 
 .u-section-3 .u-accordion-pane-4 {
-  min-height: 600px;
+  min-height: 318px;
+  height: auto;
 }
 
 .u-section-3 .u-container-layout-4 {
@@ -464,7 +467,8 @@
 }
 
 .u-section-3 .u-accordion-pane-5 {
-  min-height: 600px;
+  min-height: 318px;
+  height: auto;
 }
 
 .u-section-3 .u-container-layout-5 {
@@ -494,7 +498,8 @@
 }
 
 .u-section-3 .u-accordion-pane-6 {
-  min-height: 600px;
+  min-height: 318px;
+  height: auto;
 }
 
 .u-section-3 .u-container-layout-6 {
@@ -513,6 +518,7 @@
 
 .u-section-3 .u-accordion-item-7 {
   margin-bottom: 0;
+  margin-top: 30px;
 }
 
 .u-section-3 .u-accordion-link-7 {
@@ -528,7 +534,8 @@
 }
 
 .u-section-3 .u-accordion-pane-7 {
-  min-height: 600px;
+  min-height: 318px;
+  height: auto;
 }
 
 .u-section-3 .u-container-layout-7 {
@@ -547,6 +554,7 @@
 
 .u-section-3 .u-accordion-item-8 {
   margin-bottom: 0;
+  margin-top: 30px;
 }
 
 .u-section-3 .u-accordion-link-8 {
@@ -562,7 +570,8 @@
 }
 
 .u-section-3 .u-accordion-pane-8 {
-  min-height: 600px;
+  min-height: 318px;
+  height: auto;
 }
 
 .u-section-3 .u-container-layout-8 {
@@ -704,10 +713,6 @@
     height: auto;
   }
 
-  .u-section-3 .u-accordion-pane-2 {
-    height: auto;
-  }
-
   .u-section-3 .u-video-1 {
     margin-right: initial;
     margin-left: initial;
@@ -721,30 +726,6 @@
   .u-section-3 .u-video-3 {
     margin-right: initial;
     margin-left: initial;
-  }
-
-  .u-section-3 .u-accordion-pane-3 {
-    height: auto;
-  }
-
-  .u-section-3 .u-accordion-pane-4 {
-    height: auto;
-  }
-
-  .u-section-3 .u-accordion-pane-5 {
-    height: auto;
-  }
-
-  .u-section-3 .u-accordion-pane-6 {
-    height: auto;
-  }
-
-  .u-section-3 .u-accordion-pane-7 {
-    height: auto;
-  }
-
-  .u-section-3 .u-accordion-pane-8 {
-    height: auto;
   }
 
   .u-section-3 .u-accordion-pane-9 {
