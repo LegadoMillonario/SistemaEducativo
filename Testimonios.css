@@ -335,48 +335,80 @@
     height: auto;
   }
 
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 87px;
+    margin-right: auto;
+    margin-left: 329px;
+  }
+
   .u-section-1 .u-text-2 {
-    margin-right: 213px;
-    margin-left: 85px;
+    width: auto;
+    margin-top: 28px;
+    margin-right: 168px;
+    margin-left: 130px;
   }
 }
 
 @media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1544px;
+  }
+
   .u-section-1 .u-gallery-1 {
-    margin-top: 176px;
+    margin-top: 109px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 320px;
-    margin-right: 320px;
+    width: 533px;
+    margin-top: 64px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-accordion-1 {
-    width: 720px;
+    margin-top: 50px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-layout-cell-1 {
     min-height: 400px;
   }
 
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 111px;
+    margin-left: auto;
+  }
+
   .u-section-1 .u-text-2 {
-    margin-right: 78px;
-    margin-left: 0;
+    margin-top: 32px;
+    margin-left: 39px;
+    margin-right: 39px;
   }
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1313px;
+  }
+
   .u-section-1 .u-gallery-1 {
-    margin-top: 228px;
+    margin-top: 66px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 500px;
-    margin-right: 500px;
+    width: auto;
+    margin-top: 51px;
+    margin-right: 7px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-accordion-1 {
-    width: 540px;
+    margin-top: 31px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -428,24 +460,37 @@
     height: 480px;
   }
 
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 43px;
+  }
+
   .u-section-1 .u-text-2 {
+    margin-left: 0;
     margin-right: 0;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1366px;
+  }
+
   .u-section-1 .u-gallery-1 {
-    margin-top: 189px;
+    margin-top: 72px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
-    margin-left: 700px;
-    margin-right: 700px;
+    margin-top: 43px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 
   .u-section-1 .u-accordion-1 {
-    width: 340px;
+    margin-top: 32px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -480,5 +525,13 @@
   .u-section-1 .u-video-5 {
     width: 340px;
     height: 302px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 70px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 20px;
   }
 }

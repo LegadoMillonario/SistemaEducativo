@@ -178,9 +178,16 @@
     margin-left: calc(((100% - 540px) / 2));
   }
 
+  .u-section-1 .u-social-icons-1 {
+    width: 198px;
+    margin-top: 30px;
+    margin-left: auto;
+  }
+
   .u-section-1 .u-text-3 {
-    margin-right: calc(((100% - 540px) / 2));
+    margin-top: 18px;
     margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2));
   }
 }
 
@@ -194,6 +201,10 @@
     font-size: 2.25rem;
     margin-right: calc(((100% - 340px) / 2));
     margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    width: 196px;
   }
 
   .u-section-1 .u-text-3 {
