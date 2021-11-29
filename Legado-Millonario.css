@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   min-height: 50vw;
 }
 
@@ -74,7 +74,41 @@
   text-shadow: -4px -2px 8px rgba(242,242,242,0.7);
   animation-duration: 1000ms;
   font-size: 3.75rem;
-  margin: -372px calc(((100% - 1140px) / 2) + 261px) 60px calc(((100% - 1140px) / 2) + 236px);
+  margin: -372px calc(((100% - 1140px) / 2) + 261px) 0 calc(((100% - 1140px) / 2) + 236px);
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 42px;
+  min-height: 16px;
+  width: 198px;
+  min-width: 94px;
+  margin: 38px auto 0 calc(((100% - 1140px) / 2) + 442px);
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+  color: rgb(210, 34, 21) !important;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+  color: rgb(197, 54, 164) !important;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 100%;
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-text-3 {
+  font-style: italic;
+  font-size: 1.125rem;
+  margin: 10px calc(((100% - 1140px) / 2) + 279px) 60px calc(((100% - 1140px) / 2) + 219px);
 }
 
 @media (max-width: 1199px) {
@@ -95,13 +129,18 @@
     margin-right: calc(((100% - 940px) / 2) + 161px);
     margin-left: calc(((100% - 940px) / 2) + 136px);
   }
+
+  .u-section-1 .u-social-icons-1 {
+    width: 196px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: calc(((100% - 940px) / 2) + 179px);
+    margin-left: calc(((100% - 940px) / 2) + 119px);
+  }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
-    min-height: 100vh;
-  }
-
   .u-section-1 .u-text-1 {
     margin-right: 208px;
     margin-left: 209px;
@@ -121,6 +160,11 @@
     margin-right: calc(((100% - 720px) / 2) + 51px);
     margin-left: calc(((100% - 720px) / 2) + 26px);
   }
+
+  .u-section-1 .u-text-3 {
+    margin-right: calc(((100% - 720px) / 2) + 69px);
+    margin-left: calc(((100% - 720px) / 2) + 9px);
+  }
 }
 
 @media (max-width: 767px) {
@@ -130,6 +174,11 @@
   }
 
   .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
     margin-right: calc(((100% - 540px) / 2));
     margin-left: calc(((100% - 540px) / 2));
   }
@@ -146,7 +195,12 @@
     margin-right: calc(((100% - 340px) / 2));
     margin-left: calc(((100% - 340px) / 2));
   }
-}.u-section-2 {
+
+  .u-section-1 .u-text-3 {
+    margin-right: calc(((100% - 340px) / 2));
+    margin-left: calc(((100% - 340px) / 2));
+  }
+} .u-section-2 {
   background-image: linear-gradient(#2cccc4, #1596e1);
 }
 
@@ -471,7 +525,7 @@
     margin-top: 26px;
     margin-left: auto;
   }
-}.u-section-3 {
+} .u-section-3 {
   background-image: linear-gradient(#0592e6, #cbc4ab);
 }
 
@@ -640,7 +694,7 @@
     padding-left: 0;
     padding-right: 0;
   }
-}.u-section-4 {
+} .u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/abstract-luxury-gold-yellow-gradient-studio-wall-well-use-as-background-layout-banner-and-product-presentation.jpg");
   background-position: 50% 50%;
 }
